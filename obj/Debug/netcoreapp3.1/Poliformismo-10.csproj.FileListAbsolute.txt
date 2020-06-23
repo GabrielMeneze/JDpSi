@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.exe
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.deps.json
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.dll
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\bin\Debug\netcoreapp3.1\Poliformismo-10.pdb
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.dll
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.pdb
+C:\Users\gabriel\Documents\GitHub\Poliformismo-10\obj\Debug\netcoreapp3.1\Poliformismo-10.genruntimeconfig.cache
